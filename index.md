@@ -16,3 +16,5 @@ layout: default
 **DSSG Fellows:** 
 
 # Abstract or executive summary
+
+![](pic4.jpg "picture")
